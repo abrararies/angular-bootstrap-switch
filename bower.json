@@ -22,7 +22,7 @@
     "angular": "~1.4.0",
     "jquery": ">=1.9.0",
     "bootstrap-sass": ">=3.3.4",
-    "bootstrap-switch": "git@github.com:abrararies/bootstrap-switch.git"
+    "bootstrap-switch": "https://github.com/abrararies/bootstrap-switch.git#master"
   },
   "devDependencies": {
     "angular-mocks": "~1.4.0",
